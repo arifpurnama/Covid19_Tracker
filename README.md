@@ -1,1 +1,6 @@
-Global Covid19 Tracker
+Global Covid19 Tracker Menggunakan
+#ListView
+#Volley
+#Glide
+#eazegraph
+#simplearcloader
